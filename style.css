@@ -1,0 +1,12 @@
+#body-color
+{
+background-color:#33e3ff;
+}
+#button{
+border-radius:10px;
+width:100px;
+height:40px;
+background:#33ffaf;
+font-weight:bold;
+font-size:20px;
+}
