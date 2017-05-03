@@ -1,1 +1,2 @@
-<?php mysql_select_db('prms',mysql_connect('127.0.0.1','root','')); ?>
+<?php $con=mysqli_connect("localhost","root","");
+mysqli_select_db($con,"prms");?>
